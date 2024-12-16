@@ -8,7 +8,10 @@
 
 ## COOMANDS
 ```
-pkg install python rust git -y
+pkg install python rust git -y 
+or
+apt update && apt install -y python3 python3-pip python3-venv rustc cargo git
+
 ```
 ```
 pkg install git
@@ -29,3 +32,4 @@ python blum.py
 ```
 
 **TUTORIAL AVAILABLE ON MY YT**
+thanks for https://github.com/CRYPTOMASTER09/Blum_bot
